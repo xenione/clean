@@ -1,4 +1,4 @@
-package www.xenione.ybinfo.com.myapplication
+package www.xenione.template.com.app
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

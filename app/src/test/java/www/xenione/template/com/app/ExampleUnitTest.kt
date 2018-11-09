@@ -1,4 +1,4 @@
-package www.xenione.ybinfo.com.myapplication
+package www.xenione.template.com.app
 
 import org.junit.Test
 
